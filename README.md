@@ -8,12 +8,12 @@ Each program demonstrates **core programming concepts** like loops, arrays, poin
 Here’s one of the most **popular demo programs** from this collection 👇  
 
 ✨ *It combines strings, loops, and logic to display a professional coding style.*
-/*
+
 ---------------------------------------------------------
  Author : Vaishnav Gophane
  Title  : Frequency of Each Character in a String
 ---------------------------------------------------------
-*/
+
 
 #include <stdio.h>
 #include <string.h>
