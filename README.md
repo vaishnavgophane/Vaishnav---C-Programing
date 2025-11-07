@@ -49,7 +49,7 @@ This collection is perfect for learning, interview preparation, and embedded pro
 *Firmware & Embedded Systems Developer*  
 Focused on C, STM32, PIC Microcontrollers, and Real-Time Systems.  
 
-📫 **Connect:** [Gmail][mr.vaishnavgophane@gmail.com] • [GitHub](https://github.com/vaishnavgophane) • [LinkedIn](https://www.linkedin.com/in/vaishnav-gophane-417686284/)
+📫 **Connect:** [Gmail](mr.vaishnavgophane@gmail.com) • [GitHub](https://github.com/vaishnavgophane) • [LinkedIn](https://www.linkedin.com/in/vaishnav-gophane-417686284/)
 
 ---
 
