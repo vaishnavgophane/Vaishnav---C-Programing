@@ -14,13 +14,10 @@ Here’s one of the most **popular demo programs** from this collection 👇
  Title  : Frequency of Each Character in a String
 ---------------------------------------------------------
 
-
-
-
-
 #include <stdio.h>
 #include <string.h>
-int main() {
+int main()
+{
     char str[100];
     int freq[256] = {0};
     printf("Enter a string: ");
@@ -40,3 +37,7 @@ int main() {
 
     return 0;
 }
+
+
+
+
