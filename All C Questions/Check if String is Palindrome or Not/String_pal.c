@@ -21,7 +21,7 @@ int main()
         str[i] = str[n-i-1];
         str[n-i-1]= temp;
     }
-    // Checking element by element
+
     if(strcmp(org,str)==0)
     {
         printf("String is Palandrome!");
@@ -31,4 +31,5 @@ int main()
     }
 
     return 0;
+
 }
