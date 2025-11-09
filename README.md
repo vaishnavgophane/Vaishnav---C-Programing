@@ -53,4 +53,5 @@ Focused on C, STM32, PIC Microcontrollers, and Real-Time Systems.
 
 ---
 
+
 ⭐ *If you find this repository helpful, give it a star and explore more of my embedded and firmware projects!*
